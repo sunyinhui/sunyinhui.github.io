@@ -2,7 +2,7 @@ title: Sunyinhui.GitHub.io
 description: sunyinhui的博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
